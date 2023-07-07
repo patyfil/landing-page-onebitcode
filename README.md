@@ -50,3 +50,6 @@ Aprenda a criar uma landing page incrível com um projeto prático! Apresentamos
 ## 🪙 Layout
 
 Você pode visualizar o layout do projeto no figma através <a href="https://www.figma.com/file/76GJ4uK7PyKeAo6dcpVyjA/Tom's-Jazz-School?type=design&node-id=0-1&mode=design&t=RDQBGyLx6PwBhzpE-0" target="_blank">desse link</a>.
+<p align="center">
+    <img src="./img/desktop.png"/>
+</p>
